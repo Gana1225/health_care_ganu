@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185493362640",
+    "project_id": "life-eb2a0",
+    "storage_bucket": "life-eb2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185493362640:android:fa63531b53c491a71a8bd5",
+        "android_client_info": {
+          "package_name": "com.example.healthcareadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1c68OyL5O74ZYJLr70pMHZU5bML3TWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

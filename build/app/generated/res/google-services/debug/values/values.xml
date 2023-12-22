@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">185493362640</string>
+    <string name="google_api_key" translatable="false">AIzaSyAa1c68OyL5O74ZYJLr70pMHZU5bML3TWc</string>
+    <string name="google_app_id" translatable="false">1:185493362640:android:fa63531b53c491a71a8bd5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAa1c68OyL5O74ZYJLr70pMHZU5bML3TWc</string>
+    <string name="google_storage_bucket" translatable="false">life-eb2a0.appspot.com</string>
+    <string name="project_id" translatable="false">life-eb2a0</string>
+</resources>
